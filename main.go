@@ -16,7 +16,7 @@ func main() {
 		msg := fmt.Sprintf("Hello %d", i)
 		go restyRun(100000, msg)
 	}
-	println("func end=>")
+	println("func end=>QQQQ")
 
 	/*
 		varSymbol := getPluginSymbol()
