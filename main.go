@@ -11,7 +11,7 @@ import (
 
 func main() {
 
-	println("go 함수 테스트1")
+	println("go 함수 테스트111111")
 	for i := 1; i <= 10; i++ {
 		msg := fmt.Sprintf("Hello %d", i)
 		go restyRun(100000, msg)
