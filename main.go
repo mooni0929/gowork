@@ -11,12 +11,12 @@ import (
 
 func main() {
 
-	println("func Start=>")
+	println("go 함수 테스트1")
 	for i := 1; i <= 10; i++ {
 		msg := fmt.Sprintf("Hello %d", i)
 		go restyRun(100000, msg)
 	}
-	println("func end=!!!!")
+	println("go 함수 테스트2")
 
 	/*
 		varSymbol := getPluginSymbol()
