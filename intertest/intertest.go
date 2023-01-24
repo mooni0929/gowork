@@ -11,5 +11,5 @@ func (s *SomeStruct) Hi() {
 	println("Hi " + s.Name)
 }
 func InterfaceCall() {
-	println("Call interface")
+	println("Call interface 최신버전 반영 테스트")
 }
