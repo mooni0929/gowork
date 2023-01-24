@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"gowork/intertest"
 	"plugin"
 	"time"
 
 	"github.com/go-resty/resty/v2"
+	"github.com/mooni0929/gowork/intertest"
 )
 
 func main() {

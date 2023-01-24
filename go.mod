@@ -1,4 +1,4 @@
-module gowork
+module github.com/mooni0929/gowork
 
 go 1.19
 
