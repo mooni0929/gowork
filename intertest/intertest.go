@@ -13,3 +13,6 @@ func (s *SomeStruct) Hi() {
 func InterfaceCall() {
 	println("Call interface 최신버전 반영 테스트")
 }
+func InterfaceCallAdd() {
+	println("Call interface 최신버전 반영 테스트")
+}
