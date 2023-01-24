@@ -25,3 +25,6 @@ func InterfaceCallAddV6() {
 func InterfaceCallAddV7() {
 	println("Call interface 최신버전 반영 테스트v7")
 }
+func InterfaceCallAddV8() {
+	println("Call interface 최신버전 반영 테스트v7")
+}
