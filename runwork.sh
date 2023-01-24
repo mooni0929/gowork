@@ -1,1 +1,1 @@
-./gowork
+./gowork test
