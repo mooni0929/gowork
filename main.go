@@ -12,10 +12,14 @@ import (
 func main() {
 
 	println("go 함수 windows에서")
-	for i := 1; i <= 10; i++ {
-		msg := fmt.Sprintf("Hello %d", i)
-		go restyRun(100000, msg)
-	}
+
+	intertest.InterfaceCall()
+	/*
+		for i := 1; i <= 10; i++ {
+			msg := fmt.Sprintf("Hello %d", i)
+			go restyRun(100000, msg)
+		}
+	*/
 	println("go 함수 window에서 고침 ")
 
 	/*

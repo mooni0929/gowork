@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"gowork/intertest"
+
+	"github.com/mooni0929/gowork/intertest"
 
 	"github.com/go-resty/resty/v2"
 )

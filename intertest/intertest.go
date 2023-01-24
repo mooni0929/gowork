@@ -10,3 +10,6 @@ type Hello interface {
 func (s *SomeStruct) Hi() {
 	println("Hi " + s.Name)
 }
+func InterfaceCall() {
+	println("Call interface")
+}
