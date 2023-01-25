@@ -11,7 +11,7 @@ import (
 
 func main() {
 
-	println("go 함수 windows에서")
+	println("go 함수 windows에서22")
 
 	intertest.InterfaceCall()
 	/*
